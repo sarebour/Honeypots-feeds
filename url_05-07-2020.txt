@@ -1,0 +1,15 @@
+http://119.123.227.145:10397/.i
+http://124.248.190.252:10446/.i
+http://159.65.155.229/bot.arm5
+http://159.65.155.229/bot.mips
+http://193.228.91.105/vsUerS.sh
+http://193.228.91.124/5311qjmikurawepedalnqmashrabotatuk61119123c/KigaNet.x86
+http://45.143.220.79/kwari.sh
+http://45.95.168.250/x86
+http://5.206.227.228/bot.mips
+http://5.206.227.228/bot.mipsel
+http://5.206.227.228/bot.superh
+http://5.206.227.228/bot.x86_64
+http://62.4.16.167:80/arm
+http://c2.gov.uk.nova.dashki.pw/deivater.sh
+http://ws-ebavisapia01-dll.ir/uih7U8JY7Of7Y8O9d6t68IT67R8y76t7823tg8weuq/SquidNet.x86
