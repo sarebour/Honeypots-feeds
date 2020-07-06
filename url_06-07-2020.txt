@@ -1,0 +1,9 @@
+http://104.248.225.168/5311qjmikurawepedalnqmashrabotatuk61119123c/infn.x86
+http://108.174.199.180/Thorbins.sh
+http://192.168.1.1:8088/i
+http://45.143.220.79/kwari.sh
+http://45.95.168.231/YesK4Pz9CJ7dQ0EUhkwc3tXSWoR5rB/Meth.x86
+http://5.206.227.228/bot.mips
+http://5.206.227.228/bot.mipsel
+http://5.206.227.228/bot.superh
+http://5.206.227.228/bot.x86_64
