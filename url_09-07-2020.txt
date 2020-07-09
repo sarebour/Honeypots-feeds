@@ -1,0 +1,11 @@
+http://185.63.253.26/christianmingle.x86
+http://192.168.1.1:8088/i
+http://37.49.224.231:80/batkek/arm
+http://37.49.224.231:80/batkek/sparc
+http://45.143.220.79/kwari.sh
+http://45.95.168.219/SnOoPy.sh
+http://46.4.152.178/reportmybinsfaggotbins.sh
+http://5.206.227.228/bot.arm5
+http://5.206.227.228/bot.mips
+http://5.206.227.228/bot.mipsel
+http://5.206.227.228/bot.superh
