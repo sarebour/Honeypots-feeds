@@ -1,0 +1,16 @@
+http://104.244.73.194/axisbins.sh
+http://144.172.73.40/scrubnet/deivater.sh
+http://161.35.225.189/bins/jKira.x86
+http://185.63.253.26/christianmingle.x86
+http://192.168.1.1:8088/i
+http://193.228.91.105/vsUerS.sh
+http://45.143.220.79/kwari.sh
+http://45.95.168.230/YesK4Pz9CJ7dQ0EUhkwc3tXSWoR5rB/Meth.x86
+http://46.4.152.178/reportmybinsfaggotbins.sh
+http://5.206.227.228/bot.arm5
+http://5.206.227.228/bot.mipsel
+http://5.206.227.228/bot.superh
+http://5.206.227.228/bot.x86_64
+http://82.102.13.42/SnOoPy.sh
+http://86.104.194.159/reportmeyougaybins.sh
+http://ws-ebavisapia01-dll.ir/uih7U8JY7Of7Y8O9d6t68IT67R8y76t7823tg8weuq/SquidNet.x86
