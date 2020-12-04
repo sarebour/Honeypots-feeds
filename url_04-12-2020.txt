@@ -1,0 +1,7 @@
+http://178.93.48.177:18692/.i
+http://185.63.253.26/christianmingle.x86
+http://192.168.1.1:8088/i
+http://198.98.61.43/bdExploit/exploit.x86
+http://198.98.61.43/bdExploit/exploit.x86_64
+http://37.46.150.185/bins/Astra.x86
+http://46.4.152.178/reportmybinsfaggotbins.sh
