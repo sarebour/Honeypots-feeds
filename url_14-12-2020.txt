@@ -1,0 +1,6 @@
+http://185.234.217.12/podata.php
+http://185.63.253.26/christianmingle.x86
+http://192.168.1.1:8088/i
+http://193.169.252.19/podata.php
+http://46.4.152.178/reportmybinsfaggotbins.sh
+https://github.com/cnrig/cnrig/releases/download/v0.1.5-release/cnrig-0.1.5-linux-x86_64
